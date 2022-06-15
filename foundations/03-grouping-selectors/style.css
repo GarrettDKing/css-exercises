@@ -1,0 +1,13 @@
+.numero1,.numero2{
+    font-size: 28px;
+    font-family: Helvetica "Times New Roman" sans-serif;
+}
+
+.numero1{
+    background-color: black;
+    color:yellow;
+}
+
+.numero2{
+    background-color: yellow;
+}
